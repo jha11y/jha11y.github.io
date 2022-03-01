@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/reactforweb/static/js/app.5c90f057.chunk.js",
+    "app.js.map": "/reactforweb/static/js/app.5c90f057.chunk.js.map",
+    "runtime~app.js": "/reactforweb/static/js/runtime~app.3d04d034.js",
+    "runtime~app.js.map": "/reactforweb/static/js/runtime~app.3d04d034.js.map",
+    "static/js/2.6699a384.chunk.js": "/reactforweb/static/js/2.6699a384.chunk.js",
+    "static/js/2.6699a384.chunk.js.map": "/reactforweb/static/js/2.6699a384.chunk.js.map",
+    "favicon-16.png": "/reactforweb/favicon-16.png",
+    "favicon-32.png": "/reactforweb/favicon-32.png",
+    "favicon.ico": "/reactforweb/favicon.ico",
+    "index.html": "/reactforweb/index.html",
+    "manifest.json": "/reactforweb/manifest.json",
+    "serve.json": "/reactforweb/serve.json",
+    "static/js/2.6699a384.chunk.js.LICENSE.txt": "/reactforweb/static/js/2.6699a384.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3d04d034.js",
+    "static/js/2.6699a384.chunk.js",
+    "static/js/app.5c90f057.chunk.js"
+  ]
+}
